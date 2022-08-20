@@ -160,7 +160,7 @@ class _HomeViewState extends State<HomeView> {
                                     padding: EdgeInsets.all(5.0),
                                     child: Icon(
                                       Icons.swap_horiz_rounded,
-                                      color: Colors.orange,
+                                      color: Colors.purple,
                                     ),
                                   ),
                                 ),
